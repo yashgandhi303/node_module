@@ -1,0 +1,17 @@
+{
+  "name": "node-package-assignment",
+  "version": "1.0.14",
+  "description": "A demo pkg for envirya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "npm demo user",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
