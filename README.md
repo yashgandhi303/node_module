@@ -39,11 +39,7 @@ In the test directory, install your module:
     npm install node-package-assignment
 ```
 
-* In the test directory, create a test.js file which requires your module and calls your module as a method.
-
-```bash
-    const findServer = require('node-package-assignment');
-```
+* In the test directory, create a test.js file which requires your module and calls your module as a method, you can use the below code:
 
 ```bash
     // import created module
