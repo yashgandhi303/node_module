@@ -60,4 +60,4 @@ In the test directory, install your module:
 
 * On the command line, run node test.js. The message sent to the console.log should appear something like this:
 
-![Alt text](https://github.com/yashgandhi303/node_module/blob/master/Screenshot%2020-03-03%at%4.26.06%AM.png "Optional title")
+![Alt text](https://github.com/yashgandhi303/node_module/blob/master/Screenshot%202020-03-03%20at%204.26.06%20AM.png "Optional title")
