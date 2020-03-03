@@ -57,3 +57,11 @@ In the test directory, install your module:
 * On the command line, run node test.js. The message sent to the console.log should appear something like this:
 
 ![Alt text](https://github.com/yashgandhi303/node_module/blob/master/Screenshot%202020-03-03%20at%204.26.06%20AM.png "Optional title")
+
+
+# Test the node_module, clone this repo and then run
+
+```bash
+    npm install
+    npm run test
+```
