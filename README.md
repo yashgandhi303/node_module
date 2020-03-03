@@ -59,9 +59,14 @@ In the test directory, install your module:
 ![Alt text](https://github.com/yashgandhi303/node_module/blob/master/Screenshot%202020-03-03%20at%204.26.06%20AM.png "Optional title")
 
 
-# Test the node_module, clone this repo and then run
+# Test the node_module
+clone this repo and then run
 
 ```bash
     npm install
     npm run test
 ```
+
+you will get the following output:
+
+![Alt text](https://github.com/yashgandhi303/node_module/blob/master/Screenshot%202020-03-03%20at%206.04.41%20AM.png "Optional title")
