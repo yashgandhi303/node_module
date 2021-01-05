@@ -13,7 +13,7 @@
   "author": "npm demo user",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "jest": "^25.1.0"
